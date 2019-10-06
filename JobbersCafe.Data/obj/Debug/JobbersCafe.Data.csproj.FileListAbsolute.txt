@@ -1,0 +1,8 @@
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\bin\Debug\JobbersCafe.Data.dll
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\bin\Debug\JobbersCafe.Data.pdb
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\obj\Debug\JobbersCafe.Data.dll
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\obj\Debug\JobbersCafe.Data.pdb
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\bin\Debug\JobbersCafe.Data.dll.config
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\obj\Debug\JobbersCafe.Data.csprojResolveAssemblyReference.cache
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\bin\Debug\EntityFramework.dll
+c:\users\admin1\documents\visual studio 2012\Projects\JobbersCafe\JobbersCafe.Data\bin\Debug\EntityFramework.xml
